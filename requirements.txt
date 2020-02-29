@@ -88,8 +88,7 @@ pygments==2.5.2
 pyjwt==1.7.1
 pyphen==0.9.5
 python-dateutil==2.8.1
-python-magic==0.4.15
-python-magic-bin==0.4.14; sys_platform == "win32"
+sys_platform == "win32"
 pytz==2019.3
 razorpay==1.2.0
 redis==3.4.1
